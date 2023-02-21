@@ -14,7 +14,7 @@ public class ProgramaIdade {
 			System.out.println("maior de idade");
 			
 		}else {
-			System.out.println("menor de idade");
+			System.out.println("menor de idade.");
 		}
 
 
